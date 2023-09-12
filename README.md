@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 I’m currently working on **Agile Applications**
 
-- 🌱 I’m currently learning **react and after that, learn node js. But I don’t close doors to learn other things 😉**
+- 🌱 I’m currently learning **react and after that, learn node js... But I don’t close doors to learn other things 😉**
 
 - 👨🏻‍💻 Also I’m currently working on **OpositApp (companies web - currently on development)**
 
